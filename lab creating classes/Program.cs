@@ -10,30 +10,31 @@ namespace lab_creating_classes
     {
         static void Main(string[] args)
         {
-            // Q3a
+            // Question 3a
             Person person1 = new Person(1, "Ian", "Brooks", "Red", 30, true);
             Person person2 = new Person(2, "Gina", "James", "Green", 18, false);
             Person person3 = new Person(3, "Mike", "Briscoe", "Blue", 45, true);
             Person person4 = new Person(4, "Mary", "Beals", "Yellow", 28, true);
 
-            // Q3b
+            // Question 3b
             person2.DisplayPersonInfo();
 
-            // Q3c
+            // Question 3c
             Console.WriteLine(person3.ToString());
 
-            // Q3d
+            // Question 3d
             string newColor = person1.ChangeFavoriteColour;
             person1.DisplayPersonInfo();
 
-            // Q3e
+            // Question 3e
             person4.GetAgeInTenYears();
-            
-            // Q3g
+
+            // Question 3f is skipped
+
+            // Question 3g (Try to do Average, Yougest & Oldest only)
             Person[] people = new Person[] {person1, person2, person3, person4};
 
             double averageAge = (people[0].GetAge + people[1].GetAge + people[2].GetAge + people[3].GetAge) / 4;
-            //double averageAge = people[0..3].GetAge / 4;
             Console.WriteLine("Average age is: " + averageAge);
 
             var nameAgeTable = new Dictionary<double, string>()

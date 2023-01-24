@@ -52,7 +52,6 @@ namespace lab_creating_classes
 
         public override string ToString()
         {
-            //Console.WriteLine("PersonId: {0}\nFirstName: {1}\nLastName: {2}\nFavouriteColour: {3}\nAge: {4}\nIsWorking: {5}",personId, firstName, lastName, favouriteColour, age, isWorking);
             return $"PersonId: {personId}\nFirstName: {firstName}\nLastName: {lastName}\nFavouriteColour: {favouriteColour}\nAge: {age}\nIsWorking: {isWorking}";
         }
 
@@ -64,6 +63,7 @@ namespace lab_creating_classes
             }
         }
 
+        // getter for Question 3g
         public string GetName
         {
             get

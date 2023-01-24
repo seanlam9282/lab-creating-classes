@@ -6,3 +6,11 @@ C:\Users\USER\Desktop\CPRG-211_Object-Oriented Programming 2\week_2\lab creating
 C:\Users\USER\Desktop\CPRG-211_Object-Oriented Programming 2\week_2\lab creating classes\lab creating classes\obj\Debug\lab creating classes.csproj.CoreCompileInputs.cache
 C:\Users\USER\Desktop\CPRG-211_Object-Oriented Programming 2\week_2\lab creating classes\lab creating classes\obj\Debug\lab creating classes.exe
 C:\Users\USER\Desktop\CPRG-211_Object-Oriented Programming 2\week_2\lab creating classes\lab creating classes\obj\Debug\lab creating classes.pdb
+C:\Users\USER\Desktop\CPRG-211_Object-Oriented Programming 2\lab1\lab creating classes\lab creating classes\bin\Debug\lab creating classes.exe.config
+C:\Users\USER\Desktop\CPRG-211_Object-Oriented Programming 2\lab1\lab creating classes\lab creating classes\bin\Debug\lab creating classes.exe
+C:\Users\USER\Desktop\CPRG-211_Object-Oriented Programming 2\lab1\lab creating classes\lab creating classes\bin\Debug\lab creating classes.pdb
+C:\Users\USER\Desktop\CPRG-211_Object-Oriented Programming 2\lab1\lab creating classes\lab creating classes\obj\Debug\lab creating classes.csproj.AssemblyReference.cache
+C:\Users\USER\Desktop\CPRG-211_Object-Oriented Programming 2\lab1\lab creating classes\lab creating classes\obj\Debug\lab creating classes.csproj.SuggestedBindingRedirects.cache
+C:\Users\USER\Desktop\CPRG-211_Object-Oriented Programming 2\lab1\lab creating classes\lab creating classes\obj\Debug\lab creating classes.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\CPRG-211_Object-Oriented Programming 2\lab1\lab creating classes\lab creating classes\obj\Debug\lab creating classes.exe
+C:\Users\USER\Desktop\CPRG-211_Object-Oriented Programming 2\lab1\lab creating classes\lab creating classes\obj\Debug\lab creating classes.pdb
